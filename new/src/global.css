@@ -1,0 +1,20 @@
+
+.mainblock{
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.mainblock img{
+    width: 250px;
+    height: 250px;
+    
+}
+
+.mainblock > center > div {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}
+

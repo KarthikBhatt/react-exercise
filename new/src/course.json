@@ -1,0 +1,37 @@
+[
+    {
+        "company_name": "HONDA",
+        "rider_name": "MARC MARQUEZ",
+        "duration": "3 YEARS",
+        "photo": "https://www.roadracingworld.com/wp-content/uploads/2022/09/Marc-Marquez-93.-Photo-coourtesy-Repsol-Honda._1662577038-e1663084501794.jpg",
+        "titles": [
+            "Sepang",
+            "Americas",
+            "Philip island"
+        ]
+    },
+
+    {
+        "company_name": "YAMAHA",
+        "rider_name": "FABIO",
+        "duration": "2 YEARS",
+        "photo":"https://cdn-1.motorsport.com/images/amp/01WRj7vY/s1000/fabio-quartararo-yamaha-factor.jpg",
+        "titles": [
+            "japan",
+            "mugello",
+            "qatar"
+        ]
+    },
+
+    {
+        "company_name": "DUCATI",
+        "rider_name": "PECCO",
+        "duration": "1 YEARS",
+        "photo":"https://cdn.visordown.com/styles/amp_1200/s3/field/image/991846.jpg?itok=e4TD9xJi",
+        "titles": [
+            "spain",
+            "aragon",
+            "valencia"
+        ]
+    }
+]
